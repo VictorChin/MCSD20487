@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\bin\Debug\EFDemo.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\bin\Debug\EFDemo.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\bin\Debug\EFDemo.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.EditorForm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.LoadingDemos.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\D3.EFDemo.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D3.EFDemo\obj\Debug\EFDemo.pdb

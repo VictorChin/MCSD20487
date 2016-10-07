@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\bin\Debug\Exercise05_StoredProcedures.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\bin\Debug\Exercise05_StoredProcedures.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\bin\Debug\Exercise05_StoredProcedures.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\obj\Debug\Exercise05_StoredProcedures.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\obj\Debug\Exercise05_StoredProcedures.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise05_StoredProcedures\obj\Debug\Exercise05_StoredProcedures.pdb

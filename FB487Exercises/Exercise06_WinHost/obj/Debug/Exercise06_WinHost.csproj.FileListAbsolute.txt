@@ -1,0 +1,11 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\bin\Debug\Exercise06_WinHost.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\bin\Debug\Exercise06_WinHost.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\bin\Debug\Exercise06_WinHost.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06_WinHost.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06_WinHost.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06_WinHost.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06_WinHost.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06_WinHost.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\bin\Debug\Exercise06_Service.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\bin\Debug\Exercise06_Service.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_WinHost\obj\Debug\Exercise06.Properties.Resources.resources

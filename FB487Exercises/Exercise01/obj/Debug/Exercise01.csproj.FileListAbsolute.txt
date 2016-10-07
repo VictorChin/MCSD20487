@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\bin\Debug\Exercise01.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\obj\Debug\Exercise01.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\bin\Debug\Exercise01.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\bin\Debug\Exercise01.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\obj\Debug\Exercise01.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\obj\Debug\Exercise01.pdb

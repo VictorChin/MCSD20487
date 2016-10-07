@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\bin\Debug\Exercise10_WebApiClient.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\bin\Debug\Exercise10_WebApiClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\bin\Debug\Exercise10_WebApiClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise10_WebApiClient\obj\Debug\Exercise10_WebApiClient.pdb

@@ -1,0 +1,103 @@
+﻿<div class="jumbotron">
+    <h1>HTML Client to Web API Service</h1>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>Products</h2>
+        <div class="form-group">
+            <select size="10" id="productsListBox"></select>
+        </div>
+        <button type="button" class="btn btn-primary" id="refreshButton">Refresh Product List</button>
+    </div>
+    <div class="col-md-4">
+        <h3>Modify Product</h3>
+        <form id="productForm" role="form">
+            <div class="form-group">
+                <label for="productID">Product ID:</label>
+                <input id="productID" name="ProductID" class="form-control" type="number" />
+            </div>
+            <div class="form-group">
+                <label for="productName">Product Name:</label>
+                <input id="productName" name="ProductName" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="unitPrice">Unit Price:</label>
+                <input id="unitPrice" name="UnitPrice" class="form-control" />
+            </div>
+            <button type="button" class="btn btn-info" id="insertButton">Insert</button>
+            <button type="button" class="btn btn-success" id="updateButton">Update</button>
+            <button type="button" class="btn btn-danger" id="deleteButton">Delete</button>
+        </form>
+    </div>
+    <div class="col-md-4">
+        <div id="message" class="alert alert-success" style="display:none;"></div>
+    </div>
+</div>
+@section scripts {
+    <script>
+        $(function () { // wait for DOM to be ready
+            refreshButton.onclick = function () {
+                productsListBox.innerHTML = ""; // clear listbox
+                $.ajax({
+                    url: "/api/products",
+                    dataType: "json"
+                }).done(function (arrayOfProducts) {
+                    arrayOfProducts.forEach(function (product) {
+                        $("#productsListBox").append("<option value='" + product.ProductID + "'>" + product.ProductName + "</option>");
+                    });
+                });
+            }
+
+            productsListBox.onclick = function () {
+                $(message).css("display", "none");
+                $.ajax({
+                    url: "/api/products/" + productsListBox.value,
+                    dataType: "json"
+                }).done(function (product) {
+                    productID.value = product.ProductID;
+                    productName.value = product.ProductName;
+                    unitPrice.value = product.UnitPrice;
+                });
+            }
+
+            insertButton.onclick = function () {
+                $.ajax({
+                    type: "POST",
+                    url: "/api/products",
+                    dataType: "json",
+                    data: $(productForm).serialize()
+                }).done(function (product) {
+                    productID.value = product.ProductID;
+                    $(message).css("display", "block");
+                    message.innerHTML = "<strong>Success!</strong> " + product.ProductName + " was inserted and a new ProductID was assigned.";
+                });
+            }
+
+            updateButton.onclick = function () {
+                $.ajax({
+                    type: "PUT",
+                    url: "/api/products/" + productsListBox.value,
+                    dataType: "json",
+                    data: $(productForm).serialize()
+                }).done(function () {
+                    $(message).css("display", "block");
+                    message.innerHTML = "<strong>Success!</strong> " + productName.value + " was updated.";
+                }).fail(function (error) {
+                    $(message).css("display", "block");
+                    message.innerHTML = "<strong>Warning!</strong> " + error + ".";
+                });
+            }
+
+            deleteButton.onclick = function () {
+                $.ajax({
+                    type: "DELETE",
+                    url: "/api/products/" + productsListBox.value,
+                    dataType: "json",
+                }).done(function (product) {
+                    $(message).css("display", "block");
+                    message.innerHTML = "<strong>Success!</strong> " + product.ProductName + " was deleted.";
+                });
+            }
+        });
+    </script>
+}

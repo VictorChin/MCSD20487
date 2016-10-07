@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product id="1" price="18.0000" discontinued="False" categoryid="1">
+    <name>Chai</name>
+    <unitsinstock>39</unitsinstock>
+  </product>
+  <product id="2" price="19.0000" discontinued="False" categoryid="1">
+    <name>Chang</name>
+    <unitsinstock>17</unitsinstock>
+  </product>
+  <product id="3" price="10.0000" discontinued="False" categoryid="2">
+    <name>Aniseed Syrup</name>
+    <unitsinstock>13</unitsinstock>
+  </product>
+  <product id="4" price="22.0000" discontinued="False" categoryid="2">
+    <name>Chef Anton's Cajun Seasoning</name>
+    <unitsinstock>53</unitsinstock>
+  </product>
+  <product id="5" price="21.3500" discontinued="True" categoryid="2">
+    <name>Chef Anton's Gumbo Mix</name>
+    <unitsinstock>0</unitsinstock>
+  </product>
+  <product id="6" price="25.0000" discontinued="False" categoryid="2">
+    <name>Grandma's Boysenberry Spread</name>
+    <unitsinstock>120</unitsinstock>
+  </product>
+  <product id="7" price="30.0000" discontinued="False" categoryid="7">
+    <name>Uncle Bob's Organic Dried Pears</name>
+    <unitsinstock>15</unitsinstock>
+  </product>
+  <product id="8" price="40.0000" discontinued="False" categoryid="2">
+    <name>Northwoods Cranberry Sauce</name>
+    <unitsinstock>6</unitsinstock>
+  </product>
+  <product id="9" price="97.0000" discontinued="True" categoryid="6">
+    <name>Mishi Kobe Niku</name>
+    <unitsinstock>29</unitsinstock>
+  </product>
+  <product id="10" price="31.0000" discontinued="False" categoryid="8">
+    <name>Ikura</name>
+    <unitsinstock>31</unitsinstock>
+  </product>
+  <product id="11" price="21.0000" discontinued="False" categoryid="4">
+    <name>Queso Cabrales</name>
+    <unitsinstock>22</unitsinstock>
+  </product>
+  <product id="12" price="38.0000" discontinued="False" categoryid="4">
+    <name>Queso Manchego La Pastora</name>
+    <unitsinstock>86</unitsinstock>
+  </product>
+  <product id="13" price="6.0000" discontinued="False" categoryid="8">
+    <name>Konbu</name>
+    <unitsinstock>24</unitsinstock>
+  </product>
+  <product id="14" price="23.2500" discontinued="False" categoryid="7">
+    <name>Tofu</name>
+    <unitsinstock>35</unitsinstock>
+  </product>
+  <product id="15" price="15.5000" discontinued="False" categoryid="2">
+    <name>Genen Shouyu</name>
+    <unitsinstock>39</unitsinstock>
+  </product>
+  <product id="16" price="17.4500" discontinued="False" categoryid="3">
+    <name>Pavlova</name>
+    <unitsinstock>29</unitsinstock>
+  </product>
+  <product id="17" price="39.0000" discontinued="True" categoryid="6">
+    <name>Alice Mutton</name>
+    <unitsinstock>0</unitsinstock>
+  </product>
+  <product id="18" price="62.5000" discontinued="False" categoryid="8">
+    <name>Carnarvon Tigers</name>
+    <unitsinstock>42</unitsinstock>
+  </product>
+  <product id="19" price="9.2000" discontinued="False" categoryid="3">
+    <name>Teatime Chocolate Biscuits</name>
+    <unitsinstock>25</unitsinstock>
+  </product>
+  <product id="20" price="81.0000" discontinued="False" categoryid="3">
+    <name>Sir Rodney's Marmalade</name>
+    <unitsinstock>40</unitsinstock>
+  </product>
+  <product id="21" price="10.0000" discontinued="False" categoryid="3">
+    <name>Sir Rodney's Scones</name>
+    <unitsinstock>3</unitsinstock>
+  </product>
+  <product id="22" price="21.0000" discontinued="False" categoryid="5">
+    <name>Gustaf's Knäckebröd</name>
+    <unitsinstock>104</unitsinstock>
+  </product>
+  <product id="23" price="9.0000" discontinued="False" categoryid="5">
+    <name>Tunnbröd</name>
+    <unitsinstock>61</unitsinstock>
+  </product>
+  <product id="24" price="4.5000" discontinued="True" categoryid="1">
+    <name>Guaraná Fantástica</name>
+    <unitsinstock>20</unitsinstock>
+  </product>
+  <product id="25" price="14.0000" discontinued="False" categoryid="3">
+    <name>NuNuCa Nuß-Nougat-Creme</name>
+    <unitsinstock>76</unitsinstock>
+  </product>
+  <product id="26" price="31.2300" discontinued="False" categoryid="3">
+    <name>Gumbär Gummibärchen</name>
+    <unitsinstock>15</unitsinstock>
+  </product>
+  <product id="27" price="43.9000" discontinued="False" categoryid="3">
+    <name>Schoggi Schokolade</name>
+    <unitsinstock>49</unitsinstock>
+  </product>
+  <product id="28" price="45.6000" discontinued="True" categoryid="7">
+    <name>Rössle Sauerkraut</name>
+    <unitsinstock>26</unitsinstock>
+  </product>
+  <product id="29" price="123.7900" discontinued="True" categoryid="6">
+    <name>Thüringer Rostbratwurst</name>
+    <unitsinstock>0</unitsinstock>
+  </product>
+  <product id="30" price="25.8900" discontinued="False" categoryid="8">
+    <name>Nord-Ost Matjeshering</name>
+    <unitsinstock>10</unitsinstock>
+  </product>
+  <product id="31" price="12.5000" discontinued="False" categoryid="4">
+    <name>Gorgonzola Telino</name>
+    <unitsinstock>0</unitsinstock>
+  </product>
+  <product id="32" price="32.0000" discontinued="False" categoryid="4">
+    <name>Mascarpone Fabioli</name>
+    <unitsinstock>9</unitsinstock>
+  </product>
+  <product id="33" price="2.5000" discontinued="False" categoryid="4">
+    <name>Geitost</name>
+    <unitsinstock>112</unitsinstock>
+  </product>
+  <product id="34" price="14.0000" discontinued="False" categoryid="1">
+    <name>Sasquatch Ale</name>
+    <unitsinstock>111</unitsinstock>
+  </product>
+  <product id="35" price="18.0000" discontinued="False" categoryid="1">
+    <name>Steeleye Stout</name>
+    <unitsinstock>20</unitsinstock>
+  </product>
+  <product id="36" price="19.0000" discontinued="False" categoryid="8">
+    <name>Inlagd Sill</name>
+    <unitsinstock>112</unitsinstock>
+  </product>
+  <product id="37" price="26.0000" discontinued="False" categoryid="8">
+    <name>Gravad lax</name>
+    <unitsinstock>11</unitsinstock>
+  </product>
+  <product id="38" price="263.5000" discontinued="False" categoryid="1">
+    <name>Côte de Blaye</name>
+    <unitsinstock>17</unitsinstock>
+  </product>
+  <product id="39" price="18.0000" discontinued="False" categoryid="1">
+    <name>Chartreuse verte</name>
+    <unitsinstock>69</unitsinstock>
+  </product>
+  <product id="40" price="18.4000" discontinued="False" categoryid="8">
+    <name>Boston Crab Meat</name>
+    <unitsinstock>123</unitsinstock>
+  </product>
+  <product id="41" price="9.6500" discontinued="False" categoryid="8">
+    <name>Jack's New England Clam Chowder</name>
+    <unitsinstock>85</unitsinstock>
+  </product>
+  <product id="42" price="14.0000" discontinued="True" categoryid="5">
+    <name>Singaporean Hokkien Fried Mee</name>
+    <unitsinstock>26</unitsinstock>
+  </product>
+  <product id="43" price="46.0000" discontinued="False" categoryid="1">
+    <name>Ipoh Coffee</name>
+    <unitsinstock>17</unitsinstock>
+  </product>
+  <product id="44" price="19.4500" discontinued="False" categoryid="2">
+    <name>Gula Malacca</name>
+    <unitsinstock>27</unitsinstock>
+  </product>
+  <product id="45" price="9.5000" discontinued="False" categoryid="8">
+    <name>Rogede sild</name>
+    <unitsinstock>5</unitsinstock>
+  </product>
+  <product id="46" price="12.0000" discontinued="False" categoryid="8">
+    <name>Spegesild</name>
+    <unitsinstock>95</unitsinstock>
+  </product>
+  <product id="47" price="9.5000" discontinued="False" categoryid="3">
+    <name>Zaanse koeken</name>
+    <unitsinstock>36</unitsinstock>
+  </product>
+  <product id="48" price="12.7500" discontinued="False" categoryid="3">
+    <name>Chocolade</name>
+    <unitsinstock>15</unitsinstock>
+  </product>
+  <product id="49" price="20.0000" discontinued="False" categoryid="3">
+    <name>Maxilaku</name>
+    <unitsinstock>10</unitsinstock>
+  </product>
+  <product id="50" price="16.2500" discontinued="False" categoryid="3">
+    <name>Valkoinen suklaa</name>
+    <unitsinstock>65</unitsinstock>
+  </product>
+  <product id="51" price="53.0000" discontinued="False" categoryid="7">
+    <name>Manjimup Dried Apples</name>
+    <unitsinstock>20</unitsinstock>
+  </product>
+  <product id="52" price="7.0000" discontinued="False" categoryid="5">
+    <name>Filo Mix</name>
+    <unitsinstock>38</unitsinstock>
+  </product>
+  <product id="53" price="32.8000" discontinued="True" categoryid="6">
+    <name>Perth Pasties</name>
+    <unitsinstock>0</unitsinstock>
+  </product>
+  <product id="54" price="7.4500" discontinued="False" categoryid="6">
+    <name>Tourtière</name>
+    <unitsinstock>21</unitsinstock>
+  </product>
+  <product id="55" price="24.0000" discontinued="False" categoryid="6">
+    <name>Pâté chinois</name>
+    <unitsinstock>115</unitsinstock>
+  </product>
+  <product id="56" price="38.0000" discontinued="False" categoryid="5">
+    <name>Gnocchi di nonna Alice</name>
+    <unitsinstock>21</unitsinstock>
+  </product>
+  <product id="57" price="19.5000" discontinued="False" categoryid="5">
+    <name>Ravioli Angelo</name>
+    <unitsinstock>36</unitsinstock>
+  </product>
+  <product id="58" price="13.2500" discontinued="False" categoryid="8">
+    <name>Escargots de Bourgogne</name>
+    <unitsinstock>62</unitsinstock>
+  </product>
+  <product id="59" price="55.0000" discontinued="False" categoryid="4">
+    <name>Raclette Courdavault</name>
+    <unitsinstock>79</unitsinstock>
+  </product>
+  <product id="60" price="34.0000" discontinued="False" categoryid="4">
+    <name>Camembert Pierrot</name>
+    <unitsinstock>19</unitsinstock>
+  </product>
+  <product id="61" price="28.5000" discontinued="False" categoryid="2">
+    <name>Sirop d'érable</name>
+    <unitsinstock>113</unitsinstock>
+  </product>
+  <product id="62" price="49.3000" discontinued="False" categoryid="3">
+    <name>Tarte au sucre</name>
+    <unitsinstock>17</unitsinstock>
+  </product>
+  <product id="63" price="43.9000" discontinued="False" categoryid="2">
+    <name>Vegie-spread</name>
+    <unitsinstock>24</unitsinstock>
+  </product>
+  <product id="64" price="33.2500" discontinued="False" categoryid="5">
+    <name>Wimmers gute Semmelknödel</name>
+    <unitsinstock>22</unitsinstock>
+  </product>
+  <product id="65" price="21.0500" discontinued="False" categoryid="2">
+    <name>Louisiana Fiery Hot Pepper Sauce</name>
+    <unitsinstock>76</unitsinstock>
+  </product>
+  <product id="66" price="17.0000" discontinued="False" categoryid="2">
+    <name>Louisiana Hot Spiced Okra</name>
+    <unitsinstock>4</unitsinstock>
+  </product>
+  <product id="67" price="14.0000" discontinued="False" categoryid="1">
+    <name>Laughing Lumberjack Lager</name>
+    <unitsinstock>52</unitsinstock>
+  </product>
+  <product id="68" price="12.5000" discontinued="False" categoryid="3">
+    <name>Scottish Longbreads</name>
+    <unitsinstock>6</unitsinstock>
+  </product>
+  <product id="69" price="36.0000" discontinued="False" categoryid="4">
+    <name>Gudbrandsdalsost</name>
+    <unitsinstock>26</unitsinstock>
+  </product>
+  <product id="70" price="15.0000" discontinued="False" categoryid="1">
+    <name>Outback Lager</name>
+    <unitsinstock>15</unitsinstock>
+  </product>
+  <product id="71" price="21.5000" discontinued="False" categoryid="4">
+    <name>Flotemysost</name>
+    <unitsinstock>26</unitsinstock>
+  </product>
+  <product id="72" price="34.8000" discontinued="False" categoryid="4">
+    <name>Mozzarella di Giovanni</name>
+    <unitsinstock>14</unitsinstock>
+  </product>
+  <product id="73" price="15.0000" discontinued="False" categoryid="8">
+    <name>Röd Kaviar</name>
+    <unitsinstock>101</unitsinstock>
+  </product>
+  <product id="74" price="10.0000" discontinued="False" categoryid="7">
+    <name>Longlife Tofu</name>
+    <unitsinstock>4</unitsinstock>
+  </product>
+  <product id="75" price="7.7500" discontinued="False" categoryid="1">
+    <name>Rhönbräu Klosterbier</name>
+    <unitsinstock>125</unitsinstock>
+  </product>
+  <product id="76" price="18.0000" discontinued="False" categoryid="1">
+    <name>Lakkalikööri</name>
+    <unitsinstock>57</unitsinstock>
+  </product>
+  <product id="77" price="13.0000" discontinued="False" categoryid="2">
+    <name>Original Frankfurter grüne Soße</name>
+    <unitsinstock>32</unitsinstock>
+  </product>
+</products>

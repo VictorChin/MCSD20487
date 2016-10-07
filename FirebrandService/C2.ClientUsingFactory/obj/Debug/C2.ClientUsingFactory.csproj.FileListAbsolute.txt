@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\C2.ClientUsingFactory.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\C2.ClientUsingFactory.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\C2.ClientUsingFactory.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\S1.ServiceContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\S2.DataContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\S1.ServiceContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\bin\Debug\S2.DataContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C2.ClientUsingFactory\obj\Debug\C2.ClientUsingFactory.pdb

@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\bin\Debug\LinqDemos.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\bin\Debug\LinqDemos.exe
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\bin\Debug\LinqDemos.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.exe
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\obj\Debug\LinqDemos.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\bin\Debug\EntityFramework.dll
+c:\users\admin\documents\visual studio 2012\Projects\LinqDemos\LinqDemos\bin\Debug\EntityFramework.xml

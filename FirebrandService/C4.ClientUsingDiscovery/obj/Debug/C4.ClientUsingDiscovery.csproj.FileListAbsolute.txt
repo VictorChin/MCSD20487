@@ -1,0 +1,13 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\C4.ClientUsingDiscovery.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\C4.ClientUsingDiscovery.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\C4.ClientUsingDiscovery.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\obj\Debug\C4.ClientUsingDiscovery.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\S1.ServiceContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\S2.DataContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\S1.ServiceContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\C4.ClientUsingDiscovery\bin\Debug\S2.DataContracts.pdb

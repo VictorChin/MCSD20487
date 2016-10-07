@@ -1,0 +1,15 @@
+c:\users\administrator\documents\visual studio 2010\Projects\Firebrand\H3.IISRouter\bin\H3.IISRouter.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Firebrand\H3.IISRouter\bin\H3.IISRouter.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\Firebrand\H3.IISRouter\obj\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\Firebrand\H3.IISRouter\obj\Debug\H3.IISRouter.dll
+c:\users\administrator\documents\visual studio 2010\Projects\Firebrand\H3.IISRouter\obj\Debug\H3.IISRouter.pdb
+C:\Users\Admin\Downloads\Firebrand\H3.IISRouter\bin\H3.IISRouter.dll
+C:\Users\Admin\Downloads\Firebrand\H3.IISRouter\bin\H3.IISRouter.pdb
+C:\Users\Admin\Downloads\Firebrand\H3.IISRouter\obj\Debug\H3.IISRouter.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Firebrand\H3.IISRouter\obj\Debug\H3.IISRouter.dll
+C:\Users\Admin\Downloads\Firebrand\H3.IISRouter\obj\Debug\H3.IISRouter.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H3.IISRouter\bin\H3.IISRouter.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H3.IISRouter\bin\H3.IISRouter.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H3.IISRouter\obj\Debug\H3.IISRouter.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H3.IISRouter\obj\Debug\H3.IISRouter.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H3.IISRouter\obj\Debug\H3.IISRouter.pdb

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<zoo>
+  <location>Regent's Park</location>
+  <lion age="4">
+    <name>Leo</name>
+    <colour>golden</colour>
+  </lion>
+  <elephant>Nellie</elephant>
+  <giraffe />
+</zoo>

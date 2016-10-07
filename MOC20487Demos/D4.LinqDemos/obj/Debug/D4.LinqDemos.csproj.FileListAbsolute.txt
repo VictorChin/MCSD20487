@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\bin\Debug\LinqDemos.exe.config
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\bin\Debug\LinqDemos.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\bin\Debug\LinqDemos.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\obj\Debug\LinqDemos.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\obj\Debug\LinqDemos.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\obj\Debug\D4.LinqDemos.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\obj\Debug\LinqDemos.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\MOC20487Demos\D4.LinqDemos\obj\Debug\LinqDemos.pdb

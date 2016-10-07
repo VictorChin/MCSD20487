@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S1.ServiceContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S2.DataContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S3.Implementation.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S1.ServiceContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S2.DataContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\bin\Debug\S3.Implementation.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.pdb

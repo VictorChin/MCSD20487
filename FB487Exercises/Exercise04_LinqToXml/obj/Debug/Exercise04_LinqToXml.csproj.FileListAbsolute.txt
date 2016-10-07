@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\Exercise04_LinqToXml.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\Exercise04_LinqToXml.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\Exercise04_LinqToXml.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\EntityFramework.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\EntityFramework.xml
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\obj\Debug\Exercise04_LinqToXml.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\obj\Debug\Exercise04_LinqToXml.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\obj\Debug\Exercise04_LinqToXml.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\Exercise00_Recorder.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise04_LinqToXml\bin\Debug\Exercise00_Recorder.pdb

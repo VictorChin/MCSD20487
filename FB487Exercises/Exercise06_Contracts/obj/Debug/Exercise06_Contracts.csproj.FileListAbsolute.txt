@@ -1,0 +1,5 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_Contracts\bin\Debug\Exercise06_Contracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_Contracts\bin\Debug\Exercise06_Contracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_Contracts\obj\Debug\Exercise06_Contracts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_Contracts\obj\Debug\Exercise06_Contracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_Contracts\obj\Debug\Exercise06_Contracts.pdb

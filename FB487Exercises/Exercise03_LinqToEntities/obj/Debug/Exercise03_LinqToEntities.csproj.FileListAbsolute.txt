@@ -1,0 +1,10 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\Exercise03_LinqToEntities.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\Exercise03_LinqToEntities.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\Exercise03_LinqToEntities.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\obj\Debug\Exercise03_LinqToEntities.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\obj\Debug\Exercise03_LinqToEntities.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise03_LinqToEntities\obj\Debug\Exercise03_LinqToEntities.pdb

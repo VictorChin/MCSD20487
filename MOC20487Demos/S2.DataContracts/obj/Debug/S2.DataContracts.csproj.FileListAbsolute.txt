@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\Firebrand\S2.DataContracts\bin\Debug\S2.DataContracts.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\Firebrand\S2.DataContracts\bin\Debug\S2.DataContracts.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\Firebrand\S2.DataContracts\obj\Debug\S2.DataContracts.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\Firebrand\S2.DataContracts\obj\Debug\S2.DataContracts.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\bin\Debug\S2.DataContracts.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\bin\Debug\S2.DataContracts.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.pdb

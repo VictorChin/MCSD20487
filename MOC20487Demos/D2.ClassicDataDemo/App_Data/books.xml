@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+  <!-- this is a comment -->
+  <book isbn="123">
+    <kermit>The Hunger Games</kermit>
+    <author>Suzanne Collins</author>
+  </book>
+  <book isbn="456">
+    <title>C# for Beginners</title>
+    <author>George Smith</author>
+  </book>
+</books>

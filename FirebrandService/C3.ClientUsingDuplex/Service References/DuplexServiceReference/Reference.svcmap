@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="0b45a9ce-ba53-407c-9229-2cc70c52f54f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:49770/duplex.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="duplex.disco" MetadataType="Disco" ID="7071688e-15a7-49d9-8421-c90bd7ee4206" SourceId="1" SourceUrl="http://localhost:49770/duplex.svc?disco" />
+    <MetadataFile FileName="duplex.xsd" MetadataType="Schema" ID="f94a0bab-967c-4bd0-8c93-ba17895acd68" SourceId="1" SourceUrl="http://localhost:49770/duplex.svc?xsd=xsd0" />
+    <MetadataFile FileName="duplex1.xsd" MetadataType="Schema" ID="665271af-97a0-4394-9309-de7628e67218" SourceId="1" SourceUrl="http://localhost:49770/duplex.svc?xsd=xsd1" />
+    <MetadataFile FileName="DuplexCalc.wsdl" MetadataType="Wsdl" ID="b97a21bf-bd40-451d-b352-5ab00346170a" SourceId="1" SourceUrl="http://localhost:49770/duplex.svc?wsdl" />
+    <MetadataFile FileName="duplex2.xsd" MetadataType="Schema" ID="df9a0e38-e3b1-4018-8811-0ee9615b0ee2" SourceId="1" SourceUrl="http://localhost:49770/duplex.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

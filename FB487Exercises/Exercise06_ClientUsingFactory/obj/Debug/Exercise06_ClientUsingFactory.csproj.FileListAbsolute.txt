@@ -1,0 +1,1 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\bin\Debug\Exercise06_ClientUsingFactory.exe.config

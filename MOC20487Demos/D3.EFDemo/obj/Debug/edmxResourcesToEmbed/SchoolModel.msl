@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SchoolModelStoreContainer" CdmEntityContainer="SchoolModelContainer">
+    <EntitySetMapping Name="Schools">
+      <EntityTypeMapping TypeName="IsTypeOf(SchoolModel.School)">
+        <MappingFragment StoreEntitySet="Schools">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="SchoolName" ColumnName="SchoolName" />
+          <ComplexProperty Name="PostalAddress" TypeName="SchoolModel.Address">
+            <ScalarProperty Name="Street" ColumnName="PostalAddress_Street" />
+            <ScalarProperty Name="City" ColumnName="PostalAddress_City" />
+          </ComplexProperty>
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Pupils">
+      <EntityTypeMapping TypeName="IsTypeOf(SchoolModel.Pupil)">
+        <MappingFragment StoreEntitySet="Pupils">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="SchoolPupil" TypeName="SchoolModel.SchoolPupil" StoreEntitySet="SchoolPupil">
+      <EndProperty Name="School">
+        <ScalarProperty Name="Id" ColumnName="Schools_Id" />
+      </EndProperty>
+      <EndProperty Name="Pupil">
+        <ScalarProperty Name="Id" ColumnName="Pupils_Id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

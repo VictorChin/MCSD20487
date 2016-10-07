@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\bin\Debug\Exercise02_XmlToRelational.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\bin\Debug\products.xml
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\bin\Debug\Exercise02_XmlToRelational.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\bin\Debug\Exercise02_XmlToRelational.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\obj\Debug\Exercise02_XmlToRelational.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\obj\Debug\Exercise02_XmlToRelational.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise02_XmlToRelational\obj\Debug\Exercise02_XmlToRelational.pdb

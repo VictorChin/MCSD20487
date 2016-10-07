@@ -1,0 +1,4 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\bin\Release\S2.DataContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\bin\Release\S2.DataContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\obj\Release\S2.DataContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\obj\Release\S2.DataContracts.pdb

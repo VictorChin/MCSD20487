@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S3.Implementation.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S3.Implementation.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S1.ServiceContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S2.DataContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S1.ServiceContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\bin\Debug\S2.DataContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.pdb

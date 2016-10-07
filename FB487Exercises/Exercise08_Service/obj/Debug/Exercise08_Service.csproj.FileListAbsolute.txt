@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_Service\bin\Debug\Exercise08_Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_Service\bin\Debug\Exercise08_Service.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_Service\obj\Debug\Exercise08_Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_Service\obj\Debug\Exercise08_Service.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_Service\obj\Debug\Exercise08_Service.pdb

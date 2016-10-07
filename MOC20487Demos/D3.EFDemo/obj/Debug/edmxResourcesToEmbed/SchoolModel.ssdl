@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SchoolModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SchoolModelStoreContainer">
+    <EntitySet Name="Schools" EntityType="SchoolModel.Store.Schools" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Pupils" EntityType="SchoolModel.Store.Pupils" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SchoolPupil" EntityType="SchoolModel.Store.SchoolPupil" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_SchoolPupil_School" Association="SchoolModel.Store.FK_SchoolPupil_School">
+      <End Role="School" EntitySet="Schools" />
+      <End Role="SchoolPupil" EntitySet="SchoolPupil" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SchoolPupil_Pupil" Association="SchoolModel.Store.FK_SchoolPupil_Pupil">
+      <End Role="Pupil" EntitySet="Pupils" />
+      <End Role="SchoolPupil" EntitySet="SchoolPupil" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Schools">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SchoolName" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="PostalAddress_Street" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PostalAddress_City" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Pupils">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SchoolPupil">
+    <Key>
+      <PropertyRef Name="Schools_Id" />
+      <PropertyRef Name="Pupils_Id" />
+    </Key>
+    <Property Name="Schools_Id" Type="int" Nullable="false" />
+    <Property Name="Pupils_Id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_SchoolPupil_School">
+    <End Role="School" Type="SchoolModel.Store.Schools" Multiplicity="1" />
+    <End Role="SchoolPupil" Type="SchoolModel.Store.SchoolPupil" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="School">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SchoolPupil">
+        <PropertyRef Name="Schools_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SchoolPupil_Pupil">
+    <End Role="SchoolPupil" Type="SchoolModel.Store.SchoolPupil" Multiplicity="*" />
+    <End Role="Pupil" Type="SchoolModel.Store.Pupils" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="Pupil">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="SchoolPupil">
+        <PropertyRef Name="Pupils_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

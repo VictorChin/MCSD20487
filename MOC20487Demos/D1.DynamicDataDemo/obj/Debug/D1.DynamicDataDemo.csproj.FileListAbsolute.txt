@@ -1,0 +1,7 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\bin\D1.DynamicDataDemo.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\bin\D1.DynamicDataDemo.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\bin\EntityFramework.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\bin\EntityFramework.xml
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\obj\Debug\D1.DynamicDataDemo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\obj\Debug\D1.DynamicDataDemo.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\D1.DynamicDataDemo\obj\Debug\D1.DynamicDataDemo.pdb

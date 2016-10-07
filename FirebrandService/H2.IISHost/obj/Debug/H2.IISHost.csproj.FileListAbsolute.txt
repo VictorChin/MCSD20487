@@ -1,0 +1,12 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\H2.IISHost.dll.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\H2.IISHost.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\H2.IISHost.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S3.Implementation.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S1.ServiceContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S2.DataContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S3.Implementation.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S1.ServiceContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\bin\S2.DataContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\obj\Debug\H2.IISHost.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\obj\Debug\H2.IISHost.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\H2.IISHost\obj\Debug\H2.IISHost.pdb

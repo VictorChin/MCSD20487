@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="SchoolModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="SchoolModelContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Schools" EntityType="SchoolModel.School" />
+    <EntitySet Name="Pupils" EntityType="SchoolModel.Pupil" />
+    <AssociationSet Name="SchoolPupil" Association="SchoolModel.SchoolPupil">
+      <End Role="School" EntitySet="Schools" />
+      <End Role="Pupil" EntitySet="Pupils" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="School">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="String" Name="SchoolName" Nullable="false" MaxLength="40" />
+    <Property Name="PostalAddress" Type="SchoolModel.Address" Nullable="false" />
+    <NavigationProperty Name="Pupils" Relationship="SchoolModel.SchoolPupil" FromRole="School" ToRole="Pupil" />
+  </EntityType>
+  <ComplexType Name="Address">
+    <Property Type="String" Name="Street" Nullable="false" />
+    <Property Type="String" Name="City" Nullable="false" />
+  </ComplexType>
+  <EntityType Name="Pupil">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="Schools" Relationship="SchoolModel.SchoolPupil" FromRole="Pupil" ToRole="School" />
+  </EntityType>
+  <Association Name="SchoolPupil">
+    <End Type="SchoolModel.School" Role="School" Multiplicity="*" />
+    <End Type="SchoolModel.Pupil" Role="Pupil" Multiplicity="*" />
+  </Association>
+</Schema>

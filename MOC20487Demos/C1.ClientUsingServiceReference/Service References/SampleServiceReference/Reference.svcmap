@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a4f29798-1290-4cdc-b30e-329913735834" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:801/Sample" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Sample.disco" MetadataType="Disco" ID="40260b01-66d4-4cd0-af53-d138cfc1e986" SourceId="1" SourceUrl="http://localhost:801/Sample?disco" />
+    <MetadataFile FileName="Sample.xsd" MetadataType="Schema" ID="1db04614-7796-4b32-a678-14383f2a5c91" SourceId="1" SourceUrl="http://localhost:801/Sample?xsd=xsd0" />
+    <MetadataFile FileName="SampleService.wsdl" MetadataType="Wsdl" ID="6ca05005-1116-4778-b639-e3ca603d1d9a" SourceId="1" SourceUrl="http://localhost:801/Sample?wsdl" />
+    <MetadataFile FileName="Sample1.xsd" MetadataType="Schema" ID="c9012ae2-6819-4f56-8513-4d2ba62db333" SourceId="1" SourceUrl="http://localhost:801/Sample?xsd=xsd1" />
+    <MetadataFile FileName="Sample2.xsd" MetadataType="Schema" ID="a7f65a9c-8a05-4c7c-88c0-f21c965a571d" SourceId="1" SourceUrl="http://localhost:801/Sample?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

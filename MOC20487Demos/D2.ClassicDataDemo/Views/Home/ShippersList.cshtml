@@ -1,0 +1,48 @@
+﻿@model IEnumerable<D2.ClassicDataDemo.Models.NorthwindDataSet.ShippersRow>
+
+@{
+    ViewBag.Title = "ReadDataSetFromXml";
+}
+
+<h2>ReadDataSetFromXml</h2>
+<p>@Html.ActionLink("Home", "Index")</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ShipperID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Phone)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RowError)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.HasErrors)
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ShipperID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Phone)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.RowError)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.HasErrors)
+        </td>
+    </tr>
+}
+
+</table>

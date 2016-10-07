@@ -1,0 +1,8 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\bin\Debug\Exercise06_ClientUsingWsdl.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\bin\Debug\Exercise06_ClientUsingWsdl.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\bin\Debug\Exercise06_ClientUsingWsdl.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\obj\Debug\Exercise06_ClientUsingWsdl.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\obj\Debug\Exercise06_ClientUsingWsdl.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\obj\Debug\Exercise06_ClientUsingWsdl.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\obj\Debug\Exercise06_ClientUsingWsdl.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingWsdl\obj\Debug\Exercise06_ClientUsingWsdl.pdb

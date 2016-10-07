@@ -1,0 +1,7 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\bin\Release\S1.ServiceContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\bin\Release\S1.ServiceContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\bin\Release\S2.DataContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\bin\Release\S2.DataContracts.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\obj\Release\S1.ServiceContracts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\obj\Release\S1.ServiceContracts.dll
+C:\Users\Administrator\documents\visual studio 2013\Projects\FirebrandService\S1.ServiceContracts\obj\Release\S1.ServiceContracts.pdb

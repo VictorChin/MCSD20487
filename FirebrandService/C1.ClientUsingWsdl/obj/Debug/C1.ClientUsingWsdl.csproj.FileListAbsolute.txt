@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\bin\Debug\C1.ClientUsingWsdl.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\bin\Debug\C1.ClientUsingWsdl.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\bin\Debug\C1.ClientUsingWsdl.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\bin\Debug\S2.DataContracts.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\bin\Debug\S2.DataContracts.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.Form1.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.exe
+c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\C1.ClientUsingWsdl\obj\Debug\C1.ClientUsingWsdl.pdb

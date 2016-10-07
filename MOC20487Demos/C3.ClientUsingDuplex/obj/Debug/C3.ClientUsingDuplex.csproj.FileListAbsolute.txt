@@ -1,0 +1,8 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\bin\Debug\C3.ClientUsingDuplex.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\bin\Debug\C3.ClientUsingDuplex.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\bin\Debug\C3.ClientUsingDuplex.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.pdb
