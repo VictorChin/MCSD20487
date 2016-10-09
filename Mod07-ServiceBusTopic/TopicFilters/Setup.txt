@@ -1,0 +1,4 @@
+﻿1. Look @ Main.cs:36, change values marked "change this"
+2. copy "azure-msg-config.properties" , yes its the one in solution explorer, to
+	C:\Users\[YourUserName]\
+3. Did you create subscription1,subscription2,subscription3 yet?

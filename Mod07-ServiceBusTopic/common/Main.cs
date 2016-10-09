@@ -39,11 +39,11 @@ namespace MessagingSamples
         const string PartitionedQueueName = "PartitionedQueue";
         const string DupdetectQueueName = "DupdetectQueue";
         const string BasicTopicName = "hot"; // change this
-        const string SendKeyName = "UserPolicy";
-        const string ReceiveKeyName = "UserPolicy";
+        const string SendKeyName = "UserPolicy";// change this
+        const string ReceiveKeyName = "UserPolicy";// change this
         const string SessionQueueName = "SessionQueue";
         const string BasicQueue2Name = "BasicQueue2";
-        const string ManageKeyName = "UserPolicy";
+        const string ManageKeyName = "UserPolicy";// change this
         static readonly string servicebusNamespace = "SERVICEBUS_NAMESPACE";
         static readonly string servicebusEntityPath = "SERVICEBUS_ENTITY_PATH";
         static readonly string servicebusFqdnSuffix = "SERVICEBUS_FQDN_SUFFIX";
