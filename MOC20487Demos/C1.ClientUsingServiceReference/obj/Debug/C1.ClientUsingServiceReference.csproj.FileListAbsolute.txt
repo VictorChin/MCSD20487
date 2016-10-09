@@ -16,3 +16,6 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C1.ClientUsin
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C1.ClientUsingServiceReference\obj\Debug\C1.ClientUsingServiceReference.csproj.GenerateResource.Cache
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C1.ClientUsingServiceReference\obj\Debug\C1.ClientUsingServiceReference.exe
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C1.ClientUsingServiceReference\obj\Debug\C1.ClientUsingServiceReference.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C1.ClientUsingServiceReference\bin\Debug\C1.ClientUsingServiceReference.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C1.ClientUsingServiceReference\obj\Debug\C1.ClientUsingServiceReference.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C1.ClientUsingServiceReference\obj\Debug\C1.ClientUsingServiceReference.pdb

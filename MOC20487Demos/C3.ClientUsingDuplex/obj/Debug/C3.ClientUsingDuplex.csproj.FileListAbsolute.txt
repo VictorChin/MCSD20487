@@ -6,3 +6,6 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsin
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.csproj.GenerateResource.Cache
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.exe
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C3.ClientUsingDuplex\bin\Debug\C3.ClientUsingDuplex.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C3.ClientUsingDuplex\obj\Debug\C3.ClientUsingDuplex.pdb

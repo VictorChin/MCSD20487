@@ -22,3 +22,15 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H1.ConsoleHos
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.csprojResolveAssemblyReference.cache
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.exe
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\H1.ConsoleHost.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S1.ServiceContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S3.Implementation.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S1.ServiceContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\bin\Debug\S3.Implementation.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\H1.ConsoleHost\obj\Debug\H1.ConsoleHost.csprojResolveAssemblyReference.cache

@@ -24,3 +24,6 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C5.ClientUsin
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C5.ClientUsingWebApi\obj\Debug\C5.ClientUsingWebApi.csproj.GenerateResource.Cache
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C5.ClientUsingWebApi\obj\Debug\C5.ClientUsingWebApi.exe
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C5.ClientUsingWebApi\obj\Debug\C5.ClientUsingWebApi.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C5.ClientUsingWebApi\bin\Debug\C5.ClientUsingWebApi.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C5.ClientUsingWebApi\obj\Debug\C5.ClientUsingWebApi.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C5.ClientUsingWebApi\obj\Debug\C5.ClientUsingWebApi.pdb

@@ -3,3 +3,8 @@ c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S2
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.dll
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S2.DataContracts\bin\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S2.DataContracts\bin\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S2.DataContracts\obj\Debug\S2.DataContracts.pdb

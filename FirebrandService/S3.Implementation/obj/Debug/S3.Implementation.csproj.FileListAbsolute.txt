@@ -7,3 +7,12 @@ c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.csprojResolveAssemblyReference.cache
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.dll
 c:\users\administrator\documents\visual studio 2013\Projects\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S3.Implementation.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S3.Implementation.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S1.ServiceContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S1.ServiceContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\bin\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FirebrandService\S3.Implementation\obj\Debug\S3.Implementation.pdb

@@ -23,3 +23,6 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C2.ClientUsin
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C2.ClientUsingChannelFactory\obj\Debug\C2.ClientUsingChannelFactory.csproj.GenerateResource.Cache
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C2.ClientUsingChannelFactory\obj\Debug\C2.ClientUsingChannelFactory.exe
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\C2.ClientUsingChannelFactory\obj\Debug\C2.ClientUsingChannelFactory.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C2.ClientUsingChannelFactory\bin\Debug\C2.ClientUsingChannelFactory.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C2.ClientUsingChannelFactory\obj\Debug\C2.ClientUsingChannelFactory.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\C2.ClientUsingChannelFactory\obj\Debug\C2.ClientUsingChannelFactory.pdb

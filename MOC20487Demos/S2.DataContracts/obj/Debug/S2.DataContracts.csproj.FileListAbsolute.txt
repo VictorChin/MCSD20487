@@ -6,3 +6,8 @@ C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContra
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\bin\Debug\S2.DataContracts.pdb
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.dll
 C:\Users\Admin\documents\visual studio 2012\Projects\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\S2.DataContracts\bin\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\S2.DataContracts\bin\Debug\S2.DataContracts.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\MOC20487Demos\S2.DataContracts\obj\Debug\S2.DataContracts.pdb
