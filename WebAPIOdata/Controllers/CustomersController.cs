@@ -66,35 +66,7 @@ namespace WebAPIOdata.Controllers
             }
             return Updated(entity);
         }
-        public async Task<IHttpActionResult> Put([FromODataUri] string key, Customer update)
-        {
-            if (!ModelState.IsValid)
-            {
-                return BadRequest(ModelState);
-            }
-            if (key != update.CustomerID)
-            {
-                return BadRequest();
-            }
-            db.Entry(update).State = EntityState.Modified;
-            try
-            {
-                await db.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!customerExists(key))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
-            }
-            return Updated(update);
-        }
-
+  
         private bool customerExists(string customerID)
         {
             return db.Customers.Any(c => c.CustomerID == customerID);
