@@ -6,3 +6,11 @@ c:\users\administrator\documents\visual studio 2013\Projects\FB487Exercises\Exer
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\bin\Debug\Exercise00_Recorder.dll
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\bin\Debug\Exercise00_Recorder.pdb
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise01\obj\Debug\Exercise01_Classic.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\bin\Debug\Exercise01.exe.config
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\obj\Debug\Exercise01.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\obj\Debug\Exercise01.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\bin\Debug\Exercise01.exe
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\bin\Debug\Exercise01.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\bin\Debug\Exercise00_Recorder.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\bin\Debug\Exercise00_Recorder.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise01\obj\Debug\Exercise01_Classic.csprojResolveAssemblyReference.cache

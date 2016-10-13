@@ -4,3 +4,9 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exer
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.dll
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\bin\Exercise08_IISHost.dll.config
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\bin\Exercise08_IISHost.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\bin\Exercise08_IISHost.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise08_IISHost\obj\Debug\Exercise08_IISHost.pdb

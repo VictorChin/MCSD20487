@@ -16,8 +16,8 @@ static string connectionString = "Endpoint=sb://chinzilla.servicebus.windows.net
 
         static void Main(string[] args)
         {
-           // StringMessagesDemo();
-           //JsonObjectsDemo();
+           //StringMessagesDemo();
+           JsonObjectsDemo();
         }
 
         private static void JsonObjectsDemo()

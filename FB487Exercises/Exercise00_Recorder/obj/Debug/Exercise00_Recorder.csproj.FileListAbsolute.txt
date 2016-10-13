@@ -2,3 +2,7 @@ C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exer
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise00_Recorder\bin\Debug\Exercise00_Recorder.pdb
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise00_Recorder\obj\Debug\Exercise00_Recorder.dll
 C:\Users\Administrator\documents\visual studio 2013\Projects\FB487Exercises\Exercise00_Recorder\obj\Debug\Exercise00_Recorder.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise00_Recorder\bin\Debug\Exercise00_Recorder.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise00_Recorder\bin\Debug\Exercise00_Recorder.pdb
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise00_Recorder\obj\Debug\Exercise00_Recorder.dll
+C:\Users\Administrator\Source\Repos\MCSD20487\FB487Exercises\Exercise00_Recorder\obj\Debug\Exercise00_Recorder.pdb

@@ -22,13 +22,13 @@ namespace Exercise05_StoredProcedures
             // create stored procedures
 
             var command = new SqlCommand("DROP PROCEDURE dbo.GetAllProducts", connection);
-            command.ExecuteNonQuery();
+            //command.ExecuteNonQuery();
 
             command.CommandText = "CREATE PROCEDURE dbo.GetAllProducts AS SELECT * FROM Products RETURN 0;";
             command.ExecuteNonQuery();
 
-            command.CommandText = "DROP PROCEDURE dbo.GetProductsCostingMoreThan";
-            command.ExecuteNonQuery();
+            //command.CommandText = "DROP PROCEDURE dbo.GetProductsCostingMoreThan";
+            //command.ExecuteNonQuery();
 
             command.CommandText = "CREATE PROCEDURE dbo.GetProductsCostingMoreThan @Cost money AS " +
                 "SELECT * FROM Products WHERE UnitPrice > @Cost; DECLARE @RV int; SELECT @RV = COUNT(*) FROM Products WHERE UnitPrice > @Cost; RETURN @RV;";

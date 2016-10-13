@@ -1,8 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\bin\Debug\Exercise06_ClientUsingFactory.exe.config
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\bin\Debug\Exercise06_ClientUsingFactory.exe
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\bin\Debug\Exercise06_ClientUsingFactory.pdb
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\obj\Debug\Exercise09_ClientUsingFactory.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\obj\Debug\Exercise06_ClientUsingFactory.Properties.Resources.resources
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\obj\Debug\Exercise09_ClientUsingFactory.csproj.GenerateResource.Cache
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\obj\Debug\Exercise06_ClientUsingFactory.exe
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\FB487Exercises\Exercise06_ClientUsingFactory\obj\Debug\Exercise06_ClientUsingFactory.pdb
