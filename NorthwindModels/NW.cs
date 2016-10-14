@@ -95,6 +95,7 @@ namespace NorthwindModels
                 .Property(e => e.TerritoryDescription)
                 .IsFixedLength();
 
+            
             modelBuilder.Entity<Region>().MapToStoredProcedures();
         }
     }
